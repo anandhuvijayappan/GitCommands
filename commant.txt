@@ -5,3 +5,7 @@
 > git add -A [ to adding all untracked files to staging area]
 
 > git commit -m "commit messege" [stage files => localrepository]
+
+> git remote add remote_name remote_path [to add remote]
+
+> git push remote_name branch
